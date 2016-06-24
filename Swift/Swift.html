@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="../css/mycss.css">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/iFun/iFun.github.io/master/blog/images/avatar.png">
+<title>Swift Note | Bill Guo </title>
+<xmp theme="united" style="display:none;">
+#Swift Notes
+
+##Debugging with Assertions
+
+```swift
+let age = -3
+assert(age >= 0, "A person's age cannot be less than zero")
+// this causes the assertion to trigger, because age is not >= 0
+```
+
+In this example, code execution will continue only if age >= 0 evaluates to true, that is, if the value of age is non-negative. If the value of age is negative, as in the code above, then age >= 0 evaluates to false, and the assertion is triggered, terminating the application.
+
+The assertion message can be omitted if desired, as in the following example:
+```
+assert(age >= 0)
+```
+###When to Use Assertions
+
+Use an assertion whenever a condition has the potential to be false, but must definitely be true in order for your code to continue execution. Suitable scenarios for an assertion check include:
+
+An integer subscript index is passed to a custom subscript implementation, but the subscript index value could be too low or too high.
+
+A value is passed to a function, but an invalid value means that the function cannot fulfill its task.
+An optional value is currently nil, but a non-nil value is essential for subsequent code to execute successfully.
+
+
+
+#Optional
+
+###Chained of Optionals
+
+```swift
+var display: UILabel>
+if let label = display{
+    if let text = label.text{
+        let x = text.hashvalue
+        //more code
+    }
+}
+
+//same as follow
+
+if let x = display?.text?.hashvalue{...}
+//if any option is nil x = nil
+```
+
+###operator ??
+so that even if s is nil the ui can have a size,
+nil has no size
+
+```swift
+let s: String? = ...// might be nil
+if s != nil{
+    display.text = s!
+}else{
+    display.text = " "
+}
+//same as
+display.text = s ?? " "
+
+```
+#Tuples
+It is nothing more than a grouping of values.
+You can use it anywhere you can use a type
+
+```swift
+let x:(w: String, i: Int, Double) = ("hello", 5, 0.85)// a tuple
+let (word, number, value) = x
+
+print (x.w)
+print (x.i)
+print (value)
+```
+###cool thing is that function can return Tuples
+
+```swift
+fun getSize() -> (weight:Double, height: Double){return (250, 80)}
+
+let x = getSize()
+print("weight is \(x.weight)")
+```
+
+#Data Structure in Swift
+
+* Classes, Structures and Enumerations
+
+     These are the 3 fundamental building blocks of data structures in swift
+
+* Similarities
+
+     * Declaration syntax
+     * Properties and Functions
+     * Initializers(not for enum)
+* Differences
+     * Inheritance(class only)
+     * Value type(struct, enum) vs Reference type (class) pass pointer
+--
+# Value vs Reference
+
+* Value
+    - copied when passed as an argument to a function
+    - copied when assigned to a different variable
+    - immutable if assigned to a variable with let
+    - any fun that can mutate a struct/enum with the keyword mutating
+* Reference(class)
+    - stored in the heap and reference counted(auto)
+    - constant pointers to a class(let) still can mutate by calling methods and change properties
+    - when passed as an argument, does not make a copy
+
+### Usually choose class over struct. struct tends to be more fundamental types, Use of enum is situations
+--
+
+#Methods
+
+* Parameters Names
+    - All parameters to all functions have an internal name and an external name
+    - external name is what callers use when they call the method
+    - with _ if you don't want callers to use an external name at all for a given parameter
+    - This is the default for the first parameter
+    - anti-swift if you removed external name for second arguments
+
+
+```swift
+fun foo(externalFirst first:Int, externalSecond second:Double){
+    var sum = 0.0
+    for_ in 0.. ,first { sum+= second}
+}
+
+fun bar(){
+    let result = foo(externalFirst: 123, externalSecond: 5.5)
+}
+```
+
+###Method can be override with override keyboard, with final prevent override
+
+--
+
+#Properties
+##Lazy Initialization
+
+###A lazy property does not get initialized until someone accesses it. must be var
+
+```swift
+lazy var brain = CalculatorBrain() // nice if calculator brain used lots of resources
+
+lazy var someProperty: Type = {
+    return value
+}
+
+lazy var myProperty = self.initialize() // with lazy we can use self
+```
+
+#Views
+
+A view represents a rectangular area
+    - For drawing
+    - For handdling touch events
+    - Defines a coordinate space
+
+##Initializing a UIView
+
+    * As always try to avoid an initializer if possible
+    * If you need an initializer, implement them both
+
+```swift
+func setup(){}
+
+override init(frame: CGRect){
+    super.init(frame: frame)
+    setup()
+}
+override init(code aDecoder: NS Coder){
+    super.init(coder: aDecoder)
+    setup()
+}
+```
+## Coordinate System Data Structure
+
+* CGFloat
+
+    - Always use this instead of Double or Float for anything to do with a UIView's coordinate system
+    - You can convert to/from a Double or Float using initializers, e.g.
+let cfg = CGFloat(aDouble)
+    * CGPoint
+        - Simply a struct with two CGFloats init: x and y.
+        - var point = CGPoint(x: 37.0, y: 55.2)
+
+    * CGSize
+        - A struct with two CGFloats in it: width and height
+        - var size = CGSize(width: 100.0, height: 50.0)
+     * CGRect
+        - A struct with a CGPoint and a CGSize in it
+        - let rect = CGRect(origin: aCGPoint, size: aCGSize)
+
+## View Coordinate System
+ * Origin is upper left
+ * Unit are points, not pixels
+
+ * The boundaries of where drawing happens
+    - var bounds: CGREct
+
+## Custom Views
+
+ * When would I create my own UIViewn subclass?
+    - I want to do some custome drawing on screen
+    - I need to handle touch events ina special way
+ * To draw, just createa UIView subclass and override drawRect:
+    - orride func drawRect(regionThatNeedsToBEDrawn: CGRect)
+ * NEVER call drawRect!! EVER!
+    - Instead, if you view needs to be redrawn, let the system know by calling
+      setNeedsDisplay()
+## Defining a Paht
+    * Create a UIBezierPath
+        let path = UIBezierPath()
+    * Move around, add lines or arcs to the path
+
+        ```swift
+        path.moveToPoint(CGPoint(80, 50))
+        path.addLineToPoint(CGPint(140,150))
+        path.addLineToPoint(CGPint(10,150))
+        path.closePath()
+        ```
+
+## UIColor
+* Colors are set using UIColor
+* Background color of a UIView
+    - var backgroundColor: UIColor
+* If you want to draw in your view with transparency
+    -   var opaque = false;
+    
+## Fonts
+* The absolutely best way to get a font in code
+    - Get preferred font for a given text style using this UIFont type method
+    - static func preferrdFontForTextStyle(UIFontTextstyle) -> UIFont
+    - Ex: UIFOntTextStyle.Headline
+
+##Memory Management
+
+###Automatic Reference Counting
+    Reference type are stored in the heap. 
+    How does the system know when to reclaim the memory for these from the heap? 
+    It "counts references" to each of them and when there are zero references, they get tossed.
+    This is done automatically.
+####Strong
+    strings normal reference counting 
+    As long as anyone, anywhere has a strong pointer to an instance, it will stay in the heap
+#### Weak
+    weak means "if no one else is interested in this, then neither am I, set me to nil in that"
+    A weak pointer will NEVER keep an object in the heap
+    Great Example: outlets
+    
+####Unowned
+    unowned means "don't reference count this; crash if I'am wrong"
+    This is very dangerous and rarely used
+    usually only to break memory cycles between objects
+
+## Protocols
+
+* Protocols are a way to express an API more concisely
+    - Instead of forcing the caller of an API to pass a specific class, struct, or enum, an API can let callers pass any class that the caller wants
+    - But can require that they implement certain methods and/or properties that the API wants.
+* A protocol is a type
+    - It can be used almost anywhere any other type is used: vars, function parameters, etc
+* The implementation of a Protocol's methods and properties 
+    - The implementation is provided by an implementing type
+    - Because of this, a protocol can have no storage associated with it
+    - IT is possible to add implementation to a protocol via an extension to that protocol
+
+###Declaration of the protocol itself
+
+```swift
+protocol SomeProtocol: InHeritedProtocol1, InheritedProtocol2{
+    var someProperty: Int{get set}
+    fun aMethod(arg1:Double, anotherArgument: String) -> SomeType
+    mutating fun changeIt()
+    init(arg: Type)
+}
+```
+* Anyone that implements SomeProtocol must also implement InheritedProtocol1 and 2. You must specify whether a property is get only or bot get and set
+* You can even specify that implementers must have a initializer
+
+### How an implementer says "I implement that protocol"
+```swift
+    struct SomeStruct: SomeProtocol, AnotherProtocol{
+    }
+```
+###When to use protocol instead of extension
+use protocol when using it as a type somewhere else, extension is not a type   
+
+
+
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+
+</html>
