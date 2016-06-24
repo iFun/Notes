@@ -1,0 +1,81 @@
+h2, h3, p, ul, ol, pre { text-align: left; }
+
+.site_links {
+	text-align: center;
+	margin-bottom: 2em;
+}
+
+h1[id ^= "section"] { /* the title at the top, excluding all the date titles from the converted Markdown */
+	font-size: 4em;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 1px solid #CCCCCC;
+	padding: 0;
+	margin: 0.3em 0;
+}
+
+h2 { font-size: 2.5em; }
+
+h3 {
+	font-size: 1.5em;
+	line-height: 90%;
+}
+
+strong { font-weight: bold; }
+emph { font-style: italic; }
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+tr:first-child th { border-top: none; }
+
+tr:last-child td { border-bottom: none; }
+
+td, th {
+	padding: 0.5em;
+	margin: 0;
+	border: 1px solid #CCCCCC;
+}
+
+td:first-child, th:first-child { border-left: none; }
+
+td:last-child, th:last-child { border-right: none; }
+
+blockquote {
+	margin-left: 0;
+	padding-left: 0.5em;
+	border-left: solid 0.3em grey;
+}
+
+.figure {
+	border: solid 0.1em grey;
+	display: inline-block;
+	padding: 1em;
+	text-align: center;
+}
+
+.figure .caption {
+	margin: 0;
+	font-size: 80%;
+}
+
+code {
+       font-family: monospace;
+       border: 1px solid grey;
+       border-radius: 0.3em;
+       white-space: pre;
+       display: inline-block;
+       padding: 0.1em 0.3em;
+       overflow: auto;
+       line-height: 150%;
+}
+:not(pre) > code {
+       display: inline-block !important;
+       padding: 0 0.3em !important;
+       margin-bottom: -0.35em;
+       margin-top: 0.2em;
+}
+.highlight { margin: 1em 3em; }
+pre code { padding: 1em; overflow: auto; display: block; }
+:not(.highlight) > pre { margin: 1em 3em; }
