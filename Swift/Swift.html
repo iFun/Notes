@@ -100,7 +100,7 @@ print("weight is \(x.weight)")
 * Differences
      * Inheritance(class only)
      * Value type(struct, enum) vs Reference type (class) pass pointer
---
+
 # Value vs Reference
 
 * Value
@@ -114,7 +114,7 @@ print("weight is \(x.weight)")
     - when passed as an argument, does not make a copy
 
 ### Usually choose class over struct. struct tends to be more fundamental types, Use of enum is situations
---
+
 
 #Methods
 
@@ -139,7 +139,7 @@ fun bar(){
 
 ###Method can be override with override keyboard, with final prevent override
 
---
+
 
 #Properties
 ##Lazy Initialization
@@ -233,7 +233,7 @@ let cfg = CGFloat(aDouble)
     - var backgroundColor: UIColor
 * If you want to draw in your view with transparency
     -   var opaque = false;
-    
+
 ## Fonts
 * The absolutely best way to get a font in code
     - Get preferred font for a given text style using this UIFont type method
@@ -243,18 +243,18 @@ let cfg = CGFloat(aDouble)
 ##Memory Management
 
 ###Automatic Reference Counting
-    Reference type are stored in the heap. 
-    How does the system know when to reclaim the memory for these from the heap? 
+    Reference type are stored in the heap.
+    How does the system know when to reclaim the memory for these from the heap?
     It "counts references" to each of them and when there are zero references, they get tossed.
     This is done automatically.
 ####Strong
-    strings normal reference counting 
+    strings normal reference counting
     As long as anyone, anywhere has a strong pointer to an instance, it will stay in the heap
 #### Weak
     weak means "if no one else is interested in this, then neither am I, set me to nil in that"
     A weak pointer will NEVER keep an object in the heap
     Great Example: outlets
-    
+
 ####Unowned
     unowned means "don't reference count this; crash if I'am wrong"
     This is very dangerous and rarely used
@@ -267,7 +267,7 @@ let cfg = CGFloat(aDouble)
     - But can require that they implement certain methods and/or properties that the API wants.
 * A protocol is a type
     - It can be used almost anywhere any other type is used: vars, function parameters, etc
-* The implementation of a Protocol's methods and properties 
+* The implementation of a Protocol's methods and properties
     - The implementation is provided by an implementing type
     - Because of this, a protocol can have no storage associated with it
     - IT is possible to add implementation to a protocol via an extension to that protocol
@@ -291,7 +291,7 @@ protocol SomeProtocol: InHeritedProtocol1, InheritedProtocol2{
     }
 ```
 ###When to use protocol instead of extension
-use protocol when using it as a type somewhere else, extension is not a type   
+use protocol when using it as a type somewhere else, extension is not a type
 
 
 
