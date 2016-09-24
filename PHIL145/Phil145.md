@@ -71,9 +71,37 @@ Re-attempt to determine what is science and what is not
 - scrutinize the experiment
 - care
 
-### evidence of set beliefs affecting systematically the reporting of data
+### Evidence of set beliefs affecting systematically the reporting of data
 
     - need scientific training
-    - saturn and 3 starts(伽利略开始看到的土星是三个star)
+    - Saturn and 3 starts(伽利略开始看到的土星是三个star)
     - run thought and double check
     - placebo effect 
+
+ 
+### Human assume world going to operating similar fashion in the past, because they operate base on past experience
+
+__Problem__: no way to justify the statement above
+
+Inference and deduction: Arguments in philosophy is a set of statement Many statements are evidence(premises) supporting conclusion, and conclusion support statement 
+
+We give theses to convince others believe in the statement
+
+### Two ways argument can go wrong
+
+- Your evidence could be wrong, so the conclusion is wrong. Thus, the statement is wrong (__bad premises__)
+
+- Premises are irrelevant to the conclusion 
+
+### How does the evidence support the conclusion
+
+- **Deductive arguments**: if premises are true the conclusion cannot be false
+
+- **Inductive argument**: conclusion extends beyond the evidence
+
+Hume's argument: there is no reason to believe after 99 instances that 100 instances.
+
+Causal argument: one thing causes another; a hypothesis is an initial speculation about a causal claim.
+    
+    we need to observe the cause, but we cannot observe the cause we only see the context or conjunction.
+    We need induction to justify 
