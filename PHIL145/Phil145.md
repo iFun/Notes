@@ -99,9 +99,28 @@ We give theses to convince others believe in the statement
 
 - **Inductive argument**: conclusion extends beyond the evidence
 
-Hume's argument: there is no reason to believe after 99 instances that 100 instances.
+Hume's argument: there is **no reason to believe** after 99 instances that 100 instances. (Does not work)
 
-Causal argument: one thing causes another; a hypothesis is an initial speculation about a causal claim.
+Causal argument: one thing causes another; a hypothesis is an initial speculation about a causal claim. (Does not work)
     
     we need to observe the cause, but we cannot observe the cause we only see the context or conjunction.
     We need induction to justify 
+
+### Probability(more data high probability)
+
+- does not work because objective fact of probability (measured frequency) -> begging the question
+- some model and understanding tie explicitly to the world
+
+### Epistemie values(hacker answer)
+- simplicity is what we value 
+- does the theory gives explanation and make precise prediction
+
+The theory that is more simple allow as to falsify more easily 
+
+If theory have epistemic value we can start to test it, and the test we have will be more telling. 
+
+### Proof
+- A proof is something that establishes conclusion with certainty given axioms(公理) and definitions 
+- Establishes to a high degree of certainty or supported by available evidence
+
+Humans like to make inductive inferences but not automatically 
