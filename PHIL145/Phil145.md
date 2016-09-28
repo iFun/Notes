@@ -124,3 +124,33 @@ If theory have epistemic value we can start to test it, and the test we have wil
 - Establishes to a high degree of certainty or supported by available evidence
 
 Humans like to make inductive inferences but not automatically 
+
+## Chapter 3 
+
+Observe -> generalize -> implication -> deserts & test -> levies -> test 
+
+    - cumulative process
+    - everyone can use this method
+    - serise examination what science currently do and past
+
+### Thomas Kuhm
+The structure of scientific revolutions 1962
+
+1. Pre-paradigm science
+
+2. Normal Science
+
+3. Scientific Revolution
+
+### Pre-paradigm Science
+    Justify conclusion, method, question, theoretical structure which generate the question you are going to question
+    
+    Options before Newton 
+    Electricity before Framblim 
+    Chemistry before loviosser 
+    Heat before caloric 
+    
+Some scientific achievement sets a paradigm
+A paradigm is an example of how to do things
+    
+    
