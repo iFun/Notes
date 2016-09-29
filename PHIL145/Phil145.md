@@ -151,6 +151,44 @@ The structure of scientific revolutions 1962
     Heat before caloric 
     
 Some scientific achievement sets a paradigm
+
 A paradigm is an example of how to do things
-    
-    
+
+What constitutes a good question?
+What constitute a good answer?
+What constitute a good method?
+
+### Experiment work
+
+1. Greater precision 
+2. Further articulation of the paradigm
+    - finding new physical content
+    - develop new quantitate laws
+    - new areas of application
+3. Direct test of paradigm
+
+### Theoretical work need to solve
+1. Generate new predictions
+2. Working through implications
+3. Reformulation paradigm
+4. Work on fit with paradigm and experiment.
+
+No part of the aim normal since new source of pheromone, often not seen at all. Observation can be theory
+
+Not see at all, not recognize as pheromone should be in a paradigm
+
+Anomalies will gather
+
+When the anomalies got too great 
+
+- science reaches state of crisis
+- New exemplar!(change the question)
+
+- continually trying to reform the paradigm (new experiment, new methodology) make the anomalies go away(under normal science works)
+- A group of people will say anomalies are not assumable by the paradigm  looking for a different way to do things
+
+Changing in paradigm incommensurable 
+We can't talk about the progress of science 
+We are not getting closer to the truth we are just changing the science we do not have any rule to know the we are closer to the truth 
+
+__Cannot be cumulative__
