@@ -103,7 +103,7 @@ Hume's argument: there is **no reason to believe** after 99 instances that 100 i
 
 Causal argument: one thing causes another; a hypothesis is an initial speculation about a causal claim. (Does not work)
     
-    we need to observe the cause, but we cannot observe the cause we only see the context or conjunction.
+    we need to observe the cause, but we cannot observe the cause we only see the context of conjunction.
     We need induction to justify 
 
 ### Probability(more data high probability)
@@ -115,7 +115,7 @@ Causal argument: one thing causes another; a hypothesis is an initial speculatio
 - simplicity is what we value 
 - does the theory gives explanation and make precise prediction
 
-The theory that is more simple allow as to falsify more easily 
+The theory that is more simple allow us to falsify more easily 
 
 If theory have epistemic value we can start to test it, and the test we have will be more telling. 
 
@@ -192,3 +192,36 @@ We can't talk about the progress of science
 We are not getting closer to the truth we are just changing the science we do not have any rule to know the we are closer to the truth 
 
 __Cannot be cumulative__
+
+
+### Lessons from Kuhm
+1. There is no single scientific method
+    - historical evidence
+    - no simple accumulation of knowledge 
+2. Scientific paradigms accepted even though they are incomplete
+3. Scientific dogmatism
+    - Kuhm: scientist want let paradigm go easily
+    - overstatement scientist community affair 
+4. Incommensurability: no way possible to determine when you going through paradigm shift whether we have any progress or not
+
+Evidence and reason don't uniquely decide among moderate
+That means rational to follow many paradigms
+
+Strong: no rational or evidential basis for selection thus paradigm choice is irrational (decided by other emotional and social factors)
+
+STS
+
+Sociology: attempt to replace phil of science reason and argumentation social influence ambition etc
+
+
+## Chapter 4
+Underdetermination
+            
+    In the philosophy of science, underdetermination refers to situations where the evidence available is insufficient to identify which belief we should hold about that evidence.
+
+
+
+#### Any set of evidence no matter how large. will not uniquely select a scientific theory
+
+Evidents always underdetermine the theory
+Science is __fallible__ 
