@@ -1,9 +1,7 @@
 Notes
 ================
 
-
-# [View Notes Online](http://billguocheng.com/notes)
-
+## Some notes I wrote (code/school)
 
 License
 -------
