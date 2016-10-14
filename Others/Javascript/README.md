@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<link rel="stylesheet" type="text/css" href="../../css/mycss.css">
-<link rel="shortcut icon" href="https://raw.githubusercontent.com/iFun/iFun.github.io/master/blog/images/avatar.png">
-<title>JavaScript Note | Bill Guo </title>
-<xmp theme="united" style="display:none;">
-
-# JavaScript Note
+# JavaScript
 
 ## Tricks
 
@@ -95,11 +88,3 @@ var y = makeAdder(20);
 x(6); // 6+5 = 11
 y(7); // 20+7 = 27
 ```
-
-
-
-</xmp>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-
-</html>

@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<link rel="stylesheet" type="text/css" href="../css/mycss.css">
-<link rel="shortcut icon" href="https://raw.githubusercontent.com/iFun/iFun.github.io/master/blog/images/avatar.png">
-<title>ECE356 | Bill Guo </title>
-<xmp theme="united" style="display:none;">
-
-
 # ECE 356
 
 
@@ -52,7 +44,7 @@ Domain is the set of permitted values for an attribute
 A __composite attribute__ comprise a collection of component attribute.
 i.e. name -> first_name, middle_name, last_name
 
-#### 4 mapping in a binary relationship
+#### 4 mapping in a binary relationshsip
 1. one to one
 2. one to many
 3. many to one
@@ -60,14 +52,28 @@ i.e. name -> first_name, middle_name, last_name
 
 ### Keys(super key and candidate key)
 
-super key = candidate key + some other unique keys
+superkey = candidate key + some other unique keys
 
 one of the candidate key selected by the designer is called __primary key__
 
 
 
-</xmp>
 
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
 
-</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

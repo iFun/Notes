@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<link rel="stylesheet" type="text/css" href="../../css/mycss.css">
-<link rel="shortcut icon" href="https://raw.githubusercontent.com/iFun/iFun.github.io/master/blog/images/avatar.png">
-<title>Python Note | Bill Guo </title>
-<xmp theme="united" style="display:none;">
 ## Python Study Notes ##
 
 
@@ -153,10 +147,3 @@ in C/C++, if you want to write for (int i = 0; i < 5; i++), then in Python you w
 ---------------------
 global keyword  declare that a variable is global
 so inside each function variable can still be changing
-
-
-</xmp>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-
-</html>
