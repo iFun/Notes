@@ -111,7 +111,7 @@ Causal argument: one thing causes another; a hypothesis is an initial speculatio
 - does not work because objective fact of probability (measured frequency) -> begging the question
 - some model and understanding tie explicitly to the world
 
-### Epistemie values(hacker answer)
+### Epistemic values(hacker answer)
 - simplicity is what we value 
 - does the theory gives explanation and make precise prediction
 
@@ -131,7 +131,7 @@ Observe -> generalize -> implication -> deserts & test -> levies -> test
 
     - cumulative process
     - everyone can use this method
-    - serise examination what science currently do and past
+    - series examination what science currently do and past
 
 ### Thomas Kuhm
 The structure of scientific revolutions 1962
@@ -223,7 +223,7 @@ Underdetermination
 
 #### Any set of evidence no matter how large. will not uniquely select a scientific theory
 
-evidents always underdetermine the theory
+evidence always underdetermine the theory
 Science is __fallible__ 
 
 ### Strong Program
@@ -254,6 +254,39 @@ Chance of being wrong
 6. Certainty is not something science achieve but absence of certainty is consistent with having lots of compelling evidence for given
 7. We continue to learn about how pas experience n better predict future events
 8. Scientific methods are them-selves appropriate object of criticism and refinement and the introduction of new methods may entirely justifiable. 
-9. All theories confront anomalies, so anomalies alone can't be adequate reasons to dismiss a theory. Theories are pursued, inpart, because they offer the most promise for purpose of furthering our understating  
-10. Kuhn = 科学家 work within something like a paradigm has historical plausibility but this need not imply strong incommensurebility between paradigms
-11. Scientific progress is contingent shaped in part by wha tproblems scientist choose to engage, what technology becomes avaible, as well as broader socio-economic and political fre
+9. All theories confront anomalies, so anomalies alone can't be adequate reasons to dismiss a theory. Theories are pursued, impart, because they offer the most promise for purpose of furthering our understating  
+10. Kuhn = 科学家 work within something like a paradigm has historical plausibility but this need not imply strong incommensurability between paradigms
+11. Scientific progress is contingent shaped in part by wha problems scientist choose to engage, what technology becomes available, as well as broader socio-economic
+
+
+## After Exam
+human being __habit__ of making induction 
+
+### From early 1980:
+        
+        Tendencies & patterns of conclusion cognitive & social psychologists  
+        
+        Cognitive biases & hveristes 
+        Identified as -> coming to wrong conclusions (in the face of evidences) 
+        
+
+Quick shortcuts in the believe formation
+
+Confirmation is good bias for us 进化学的论点
+
+If there is a Systemic / predictable irrationalities  
+
+100种偏见认知
+
+1. Conjunction fallacy 合取谬误
+    Error is tendency to conclude that multiple option has a higher probability than a component single option
+
+        小明经常对男生淫笑，且经常对男生做出亲密的肢体动作，试问那一种可能性较高？ 1.小明是男性 2.小明是男同性恋
+        如果认为是2 就犯了合取谬误。男同性恋意味着是“男性”且是“同性恋”，无论如何，小明符合“男性”的机会一定比符合“男性”又符合“同性恋”的概率更大。
+
+2. Confirmation bias
+    关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向
+    Tendency to prefer - or actively seek out evidence that supports, rather than challenges pre-existing beliefs
+     - weigh confirming evidence/ discount disconfirm(female drivers)
+     - actively seeking out evidence(number game)
+     - standard of evidence (capital punishment)
