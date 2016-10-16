@@ -290,3 +290,4 @@ If there is a Systemic / predictable irrationalities
      - weigh confirming evidence/ discount disconfirm(female drivers)
      - actively seeking out evidence(number game)
      - standard of evidence (capital punishment)
+     - even in the face of evidence (sucide notes)

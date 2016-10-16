@@ -1,5 +1,22 @@
 ## Python Study Notes ##
 
+### Trick
+If you want to remove leading and ending spaces, use str.strip():
+
+sentence = ' hello  apple'
+sentence.strip()
+> 'hello  apple'
+If you want to remove all spaces, use str.replace():
+
+sentence = ' hello  apple'
+sentence.replace(" ", "")
+> 'helloapple'
+If you want to remove duplicated spaces, use str.split():
+
+sentence = ' hello  apple'
+" ".join(sentence.split())
+> 'hello apple'
+
 
 ### String ###
 
@@ -23,11 +40,13 @@ name = 'Swaroop'
 
 print('{0} was {1} years old when he wrote this book'.format(name, age))
 print('Why is {0} playing with that python?'.format(name))
+
 ```
+
 
 output
 
-$ python str_format.py
+python str_format.py
 
 Swaroop was 20 years old when he wrote this book
 
@@ -38,15 +57,16 @@ name + ' is ' + str(age) + ' years old'
 
 same but ugly not good practice 
 
-----
+
+
 Regex use raw string
 use **r** at the front
 
 Always use raw strings when dealing with regular expressions. Otherwise, a lot of backwhacking may be required. For example, backreferences can be referred to as '\\1' or r'\1'.
 
-##Loop##
+## Loop##
 
-###Else in while loop###
+### Else in while loop###
 
 ```python
 
@@ -66,6 +86,7 @@ else:
     # Do anything else you want to do here
 
 print('Done')
+
 ```
 ##For loop###
 in C/C++, if you want to write for (int i = 0; i < 5; i++), then in Python you write just for i in range(0,5)
@@ -78,17 +99,22 @@ def say(message, times=1):
 
 say('Hello')
 say('World', 5)
+
 ```
 ###Keyword arguments###
 adv: no need remeber order of the arguments
+
 ```python
+
 def func(a, b=5, c=10):
     print('a is', a, 'and b is', b, 'and c is', c)
 
 func(3, 7)
 func(25, c=24)
 func(c=50, a=100)
+
 ```
+
 
 double quote same as single quote
 with triple quotes I can use double or single quote in the string
@@ -122,7 +148,8 @@ use r at the front
 
 Always use raw strings when dealing with regular expressions. Otherwise, a lot of backwhacking may be required. For example, backreferences can be referred to as '\\1' or r'\1'.
 
----------------------------
+
+```python
 can have else in while loop
 while running:
     guess = int(input('Enter an integer : '))
@@ -140,6 +167,8 @@ else:
     # Do anything else you want to do here
 
 print('Done')
+
+```
 
 ---------------------------
 in C/C++, if you want to write for (int i = 0; i < 5; i++), then in Python you write just for i in range(0,5)

@@ -32,7 +32,7 @@ End-end resources are reserved for call/session
 * call setup required
 * dedicated resources: no sharing
 * link bandwidth, switch capacity 
-* circuit like performace
+* circuit like performance
 
 Network resources are divided into piece, resources piece remain idle if not used by owning call
 
@@ -134,4 +134,71 @@ Time needed = total/3*64000 = 3.33
 - When a node has a packet to send
 - two or more transmitting nodes -> "collision"
 - random access MAC protocols specify
-    - how to detect 
+    - how to detect collisions
+    - how to recover from collisions (avoid collision)
+- Examples of random access MAC protocols
+    - ALOHA and slotted ALOHA
+
+### Aloha Protocol
+
+- Developed in the 1970
+- connect terminals with mainframes
+- WLAN possible but not used
+- Cell phone use the protocol to request a channel from the base stations
+
+Pure aloha
+
+- 当传输点有数据需要传送的时候，它会立即向通讯频道传送。
+- 接收点在收到数据后，会ACK传输点。
+- 如果接收的数据有错误，接收点会向传输点发送NACK。
+- 当网络上的两个传输点同时向频道传输数据的时候，会发生冲突，这种情况下，两个点各自等待一段随机长度的时间后，再次尝试传送。
+
+Shared Transmission Medium
+-  A receiver can hear multiple transmitters-  A transmitter can be heard by multiple receivers
+
+
+#### Advantages
+Simple, no synchronization. When frame first arrives transmit immediately 
+#### Disadvantage
+Collision probability increases
+
+### pure Aloha efficiency
+
+        Throughput of Pure Aloha = Total input rate G * prob of successful packet trans = G * e^-2G
+        
+### Slotted ALOHA
+
+- all frames are same size
+- nodes are synchronized
+- notes start to transmit only slot beginning
+- tune us divided untie equal size skits 
+
+### Slotted Aloha efficiency
+
+G * e^-G
+
+### CSMA (Carrier Sense Multiple Access)
+
+*Listen before you transmit*
+
+- If channel is sensed idle, transmit entire frame
+- if channel is sensed busy, defer transmission
+
+### CSMA/CD(Collision Detection)
+
+- Tx attempts multiple times
+- collisions are detected within a short time
+- A colliding transmissions is aborted
+
+#### Collision detection
+- easy in wired LAN
+- not possible in wireless LAN
+
+
+## Taking Turns MAC protocols
+
+Polling
+
+- master node invites slave nodes to transmit in tur
+- typically used with dumb slave devices
+- problem(lately, polling overhead, single point of failure)
