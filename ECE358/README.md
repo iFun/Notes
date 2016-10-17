@@ -194,11 +194,106 @@ G * e^-G
 - easy in wired LAN
 - not possible in wireless LAN
 
+### Binary exponential back off (MIDTERM)
+In Ethernet networks, the algorithm is commonly used to schedule retransmissions after collisions. The retransmission is delayed by an amount of time derived from the slot time and the number of attempts to retransmit.
 
-## Taking Turns MAC protocols
+After c collisions, a random number of slot times between 0 and 2c − 1 is chosen. For the first collision, each sender will wait 0 or 1 slot times. After the second collision, the senders will wait anywhere from 0 to 3 slot times (inclusive). After the third collision, the senders will wait anywhere from 0 to 7 slot times (inclusive), and so forth. As the number of retransmission attempts increases, the number of possibilities for delay increases exponentially.
+
+
+### Taking Turns MAC protocols
 
 Polling
 
 - master node invites slave nodes to transmit in tur
 - typically used with dumb slave devices
 - problem(lately, polling overhead, single point of failure)
+
+Token passing
+
+- control token passed from one node to next sequentially 
+- token message
+- problem (latency, token overhead, single point of failure)
+
+## Ethernet Frame Structure
+
+- 7 bytes with pattern 10101010 followed by one byte with pattern 10101011 
+- used to synchronize receiver, sender clock rates
+
+### MAC address: 6 bytes
+
+- if adapter receives frame with matching destination address, or with broadcast address it passes data inflame to upper layer protocol
+- otherwise, adapter discards frame
+
+### CRC: checked at receiver
+
+- if error is detected, frame is dropped
+
+### ARP: Address Resolution Protocol
+
+ARP table is hash table of IP and MAC
+
+- each IP node on LAN has ARP table
+- ARO table: IP/MAC address mapping for LAN node
+- TTL: time after which address mapping will be forgotten (usually 20min)
+
+### what if A wants to send datagram to B and B's MAC address not in A's table
+
+1. A broadcast ARP query packet that containing B's IP address
+2. B receives Arp query, relies to A with B's MAC address
+3. A saves IP to MAC address pair in its ARP table until this becomes old
+4. ARP is plug and play
+
+### LAN solution
+
+- Hubs
+    - no frame buffering
+    - no CSMA/CD at hub
+    - all nodes connected to hub can collide with one another
+    - bits coming in on one link go out on all other links at same rate
+
+- Switch
+    - store and forward frame
+    - transparent hosts are unaware of presses of switchs
+    - examine incoming frame's MAC address
+    - plug and play
+
+#### How does switch knows that A is reachable via interface 4
+        each switch has a switch table
+#### How are entries created and maintained in switch table
+        basically self learning
+        
+- Switch learns which host can be reached through which interfaces
+- When frame received switch learns location of sender and records sender location pair in switch table
+
+Question Fall 2012  Final Exam __check__
+
+## WIFI
+
+### PCF Mode
+
+#### The AP(Access Point)
+
+- Operates as the central controller in the BSS
+- decided who transmits and when
+- There is no contention for medium access
+- Can follow a round d-robin policy to allocate slots
+
+#### This mode
+
+- Leads to waste of bandwidth if a scheduled node has no traffic
+- Is based on the idea of polling I.e. taking turns in MAC
+
+### DCF Mode (no need for AP if AP is there AP = ordinary node)
+
+#### An AP
+
+- Need not be used
+    - Computers can directly communicate among themselves 
+- Is used to provided connectivity to the internet
+
+#### In DCF
+
+- All nodes, including the AP, compete for medium access
+- The AP does not operate as a central controller
+
+The ap tells all when to enter the PCF mode and the DCF mode

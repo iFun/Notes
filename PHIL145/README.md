@@ -290,4 +290,27 @@ If there is a Systemic / predictable irrationalities
      - weigh confirming evidence/ discount disconfirm(female drivers)
      - actively seeking out evidence(number game)
      - standard of evidence (capital punishment)
-     - even in the face of evidence (sucide notes)
+     - even in the face of evidence (suicide notes)
+
+### Availability Heuristic
+
+Tendency to believe something is important if it can be recalled
+
+1. Recent event (after911 plane travel dropped driving increased)
+2. Vivid telling 感人的故事
+3. Order
+4. Bandwagon effect 随大流
+5. Hear more often 
+
+### Overconfidence 
+
+Tendency to conclude if it feels right them it is right
+
+1. Hindsight bias 事后诸葛亮
+2. Lake Woebegone effect happens where we believe we are better than others.
+3. Coherence kidney tendency to believe something is because a narrow perspective cancer study
+
+### Memory
+
+1. Leading question can make/affect memories (How you ask the question)
+2. Anecdotal evidence (we see coordination all over the place) 我们记住特别的事件
