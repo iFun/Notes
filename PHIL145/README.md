@@ -78,7 +78,7 @@ Re-attempt to determine what is science and what is not
     - run thought and double check
     - placebo effect 
 
- 
+
 ### Human assume world going to operating similar fashion in the past, because they operate base on past experience
 
 __Problem__: no way to justify the statement above
@@ -102,7 +102,7 @@ We give theses to convince others believe in the statement
 Hume's argument: there is **no reason to believe** after 99 instances that 100 instances. (Does not work)
 
 Causal argument: one thing causes another; a hypothesis is an initial speculation about a causal claim. (Does not work)
-    
+​    
     we need to observe the cause, but we cannot observe the cause we only see the context of conjunction.
     We need induction to justify 
 
@@ -144,12 +144,12 @@ The structure of scientific revolutions 1962
 
 ### Pre-paradigm Science
     Justify conclusion, method, question, theoretical structure which generate the question you are going to question
-    
+
     Options before Newton 
     Electricity before Framblim 
     Chemistry before loviosser 
     Heat before caloric 
-    
+
 Some scientific achievement sets a paradigm
 
 A paradigm is an example of how to do things
@@ -216,7 +216,7 @@ Sociology: attempt to replace phil of science reason and argumentation social in
 
 ## Chapter 4
 Underdetermination
-            
+​            
     In the philosophy of science, underdetermination refers to situations where the evidence available is insufficient to identify which belief we should hold about that evidence.
 
 
@@ -263,12 +263,12 @@ Chance of being wrong
 human being __habit__ of making induction 
 
 ### From early 1980:
-        
+
         Tendencies & patterns of conclusion cognitive & social psychologists  
-        
+
         Cognitive biases & hveristes 
         Identified as -> coming to wrong conclusions (in the face of evidences) 
-        
+
 
 Quick shortcuts in the believe formation
 
@@ -278,15 +278,15 @@ If there is a Systemic / predictable irrationalities
 
 100种偏见认知
 
-1. Conjunction fallacy 合取谬误
-    Error is tendency to conclude that multiple option has a higher probability than a component single option
+1.   Conjunction fallacy 合取谬误
+      Error is tendency to conclude that multiple option has a higher probability than a component single option
 
-        小明经常对男生淫笑，且经常对男生做出亲密的肢体动作，试问那一种可能性较高？ 1.小明是男性 2.小明是男同性恋
-        如果认为是2 就犯了合取谬误。男同性恋意味着是“男性”且是“同性恋”，无论如何，小明符合“男性”的机会一定比符合“男性”又符合“同性恋”的概率更大。
+          小明经常对男生淫笑，且经常对男生做出亲密的肢体动作，试问那一种可能性较高？ 1.小明是男性 2.小明是男同性恋
+          如果认为是2 就犯了合取谬误。男同性恋意味着是“男性”且是“同性恋”，无论如何，小明符合“男性”的机会一定比符合“男性”又符合“同性恋”的概率更大。
 
-2. Confirmation bias
-    关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向
-    Tendency to prefer - or actively seek out evidence that supports, rather than challenges pre-existing beliefs
+2.   Confirmation bias
+          关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向
+          Tendency to prefer - or actively seek out evidence that supports, rather than challenges pre-existing beliefs
      - weigh confirming evidence/ discount disconfirm(female drivers)
      - actively seeking out evidence(number game)
      - standard of evidence (capital punishment)
@@ -314,3 +314,25 @@ Tendency to conclude if it feels right them it is right
 
 1. Leading question can make/affect memories (How you ask the question)
 2. Anecdotal evidence (we see coordination all over the place) 我们记住特别的事件
+3. Decoy Effect
+
+### Blind spot bias 
+Tendency to believe that biases have no effect on me
+We are bad at acknowledging bas in we are good at detecting it in others
+
+Arguments premises & conclusion
+
+The conclusion one argument is the other arguments' premises
+
+
+### Declarative statement is T or F
+
+4 operators: 
+
+- negation 
+
+
+- conjunction  
+- disjunction 
+- material conditional
+

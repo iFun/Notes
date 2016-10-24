@@ -19,7 +19,7 @@
 ### WiFi
         Shared wireless access network connects end system to router
         Speed 11Mbps -> 1Gbps
-        
+
 ## The Network Core
 ### Question how is data transferred through net
 1. Circuit switching: dedicated circuit per call telephone net
@@ -60,8 +60,8 @@ Time needed = total/3*64000 = 3.33
 
 ### Packet switching vs circuit switching
 
-- Packet switching allow more users to use networ
-- Great for bursty data: you can suppot more users
+- Packet switching allow more users to use network
+- Great for bursty data: you can support more users
 - Excessive congestion: packet delay and loss
 - always using the network
 - but performance is not guarantee
@@ -101,11 +101,11 @@ Time needed = total/3*64000 = 3.33
 - broadcast i.e. LAN
 
 ### Multiple Access protocols
-- single shared broadcast channel
-- two or more simultaneous transmissions cause collision
-- multiple access protocol
+-   single shared broadcast channel
+-   two or more simultaneous transmissions cause collision
+-   multiple access protocol
     - distributed algorithm that determines when a node can transmit
-        
+
             Packet collision occurs at the receiver, but transmitters must know that collision has occurred
 
 ### Ideal multiple access protocol
@@ -154,7 +154,7 @@ Pure aloha
 - 当网络上的两个传输点同时向频道传输数据的时候，会发生冲突，这种情况下，两个点各自等待一段随机长度的时间后，再次尝试传送。
 
 Shared Transmission Medium
--  A receiver can hear multiple transmitters-  A transmitter can be heard by multiple receivers
+-  A receiver can hear multiple transmitters-  A transmitter can be heard by multiple receivers
 
 
 #### Advantages
@@ -165,7 +165,7 @@ Collision probability increases
 ### pure Aloha efficiency
 
         Throughput of Pure Aloha = Total input rate G * prob of successful packet trans = G * e^-2G
-        
+
 ### Slotted ALOHA
 
 - all frames are same size
@@ -261,7 +261,7 @@ ARP table is hash table of IP and MAC
         each switch has a switch table
 #### How are entries created and maintained in switch table
         basically self learning
-        
+
 - Switch learns which host can be reached through which interfaces
 - When frame received switch learns location of sender and records sender location pair in switch table
 
@@ -297,3 +297,92 @@ Question Fall 2012  Final Exam __check__
 - The AP does not operate as a central controller
 
 The ap tells all when to enter the PCF mode and the DCF mode
+
+
+
+### Handshake mode 
+
+Frame length >= dotRTSThreashold
+
+### Without handshake mode
+
+Frame length < dotRTSThreashold
+
+
+
+for 'long' frames, you want to reduce the probability of collision with some overhead
+
+
+
+### Two problem in WLAN
+
+#### Hidden terminal problem
+
+C is transmitting to B but A didn't know B exist
+
+A is also sending packet to C thus, collision occur
+
+Solution exist CSMA/CA collision avoidance 
+
+#### Exposed terminal problem
+
+A sending message to D
+
+B knows that someone is transmitting
+
+B can transmit to C without any collision
+
+but B didn't transmit since B doesn't where D is
+
+The problem is due to B exposed to A'TX no solution right now
+
+
+
+### CSMA/Collision Avoid
+
+Physical level sensing collision: implemented in the receiver hardware
+
+Virtual carrier sensing: using a counter(Called NAV at each node)
+
+if counter > 0 most likely someone is transmitting
+
+if counter = 0 no one is transmitting
+
+condition for transmitting mediums is idle i.e. NAV = 0 and carrier is absent
+
+
+
+why no Collision detection in WLAN
+
+```
+Wireless transceivers can't send and receive on the same channel at the same time, so they can't detect collisions. This is due to the fact that there's an incredible difference between send power (generally around 100mw) and receive sensitivity (commonly around 0.01 to 0.0001mw). The sending would cover up any possible chance of receiving a foreign signal, no chance of "Collision Detection". For this reason Collision Avoidance with Control Messages is necessary.
+```
+
+
+
+## Principles of reliable data transfer
+
+no dup, no loss, no error, no reordering
+
+
+
+### Rdt 1.0: reliable transfer over a reliable channel
+
+- underlying channel prefect reliable
+  - no bit error
+  - no loss of packets
+- separe FSMs for sender, receiver:
+  - sender sends data into underlying channel
+  - receiver reads data from underling channel
+
+### Rdt 2.0: channel with bits error
+
+- error detection, cannot fix at receiver because it is expensive
+- receiver send packet has error back: 1. re-send packet at NAK or send packet at Next ACK
+- fatal flaw if ACK or NAK has error, need to resend and handling duplicate (use sequence number)
+
+### Rdt 3.0: channel with packet loss
+
+- resend packet if no ACK received after certain time
+- if delay channel can handle packet duplicate
+
