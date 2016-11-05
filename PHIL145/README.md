@@ -285,8 +285,8 @@ If there is a Systemic / predictable irrationalities
           如果认为是2 就犯了合取谬误。男同性恋意味着是“男性”且是“同性恋”，无论如何，小明符合“男性”的机会一定比符合“男性”又符合“同性恋”的概率更大。
 
 2.   Confirmation bias
-          关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向
-          Tendency to prefer - or actively seek out evidence that supports, rather than challenges pre-existing beliefs
+              关注、寻找、诠释、记忆资讯的方向多半是能确认自己成见的方向
+              Tendency to prefer - or actively seek out evidence that supports, rather than challenges pre-existing beliefs
      - weigh confirming evidence/ discount disconfirm(female drivers)
      - actively seeking out evidence(number game)
      - standard of evidence (capital punishment)
@@ -298,7 +298,7 @@ Tendency to believe something is important if it can be recalled
 
 1. Recent event (after911 plane travel dropped driving increased)
 2. Vivid telling 感人的故事
-3. Order
+3. Order affect human judgment 
 4. Bandwagon effect 随大流
 5. Hear more often 
 
@@ -310,11 +310,25 @@ Tendency to conclude if it feels right them it is right
 2. Lake Woebegone effect happens where we believe we are better than others.
 3. Coherence kidney tendency to believe something is because a narrow perspective cancer study
 
+### Consequences 
+
+- overestimate our personal understanding of the scientific theories under discussion
+- our ability to evaluate conflicting arguments and evidence 
+- our ability to ensure that our beliefs aren't being swayed by emotion ro wishful thinking
+- influenced by what intuitively seems plausible rather than the evidence suggested 
+
 ### Memory
 
 1. Leading question can make/affect memories (How you ask the question)
 2. Anecdotal evidence (we see coordination all over the place) 我们记住特别的事件
-3. Decoy Effect
+3. Repeating  information for the sole purpose of discrediting it can have the opposite effect
+
+
+### Decoy Effect
+
+gives two options 90/10 introduce a third option which makes the second one looks good
+
+result is 50/0/50
 
 ### Blind spot bias 
 Tendency to believe that biases have no effect on me
@@ -335,4 +349,80 @@ The conclusion one argument is the other arguments' premises
 - conjunction  
 - disjunction 
 - material conditional
+
+
+
+
+## Chapter 8 Environmental scare: the case of anthropogenic climate change
+
+Arguments
+
+- History of Climate & temp  
+  - __early 1800s: Joseph Fourier found out__
+  - plant should be colder than it is from radiation in and out
+  - gas in the atmosphere is holding to the heat
+  - __mid 180ss: John Tyndall__
+  -  CO2, methane, N2o, H2o vapours absorbs radiation-> make plant warmer
+  - i.e. greenhouse but very small amount in the air so should not account of for make plant warmer
+  - __late 1800 Svante Arrhenius
+  - recognized positive feedbacks loop(slight rise in co2 蝴蝶效应 最后产生的能量巨大)
+- Short argument for authropocentive CC
+- skeptical response
+- Created controversy
+
+
+
+### Criticism
+
+1. cos absorption saturation causes T increase
+2. lots more co2 in minerals and oceans then atmosphere cause extra would be absorbed and no climate impact
+
+1950s Glibert plass atomsphere layered more co2 in upper layer has greater T effect
+
+Roger Ruelle: oceans will absorb lot less co2 than assumed
+
+
+
+### lesson history
+
+by 1960: 
+
+1. burning fossil fuel add co2
+2. adding co2 to atmosphere will increase the global average T
+3. These two thing does not conclusion we as human is changing the climate 
+4. we are not produce enough, or the co2 does not accurate in the atmosphere, there maybe something else causing the climate change
+
+
+### Short argument for ACC (human cause)
+Rest on 4 claims
+
+1. Planet is undergoing unusual climate change(rising T)
+    - evidence: temp records, glacial retreat, rising sea levels
+    - thiner polar ice plant animal ranges changing, warming oceans
+2. Green house gasses particularly Co2, are becoming greater in atmosphere due to human activity
+    - evidence: atmosphere co2 rising 1958 
+    - explain: burning fossil fuels
+    - percentage of 14C in atmosphere too low
+3. Reason one is due to reason two
+    - evidence: climate modles
+
+Models are accurate for last 100 years with co2 emissions without co2 emissions it is not accurate
+
+4. Same models predict dire consequences for future generation 
+1. not an explanation
+2. Models account for all the nutovel variation
+
+A Temp due to atural variation simple narrative 
+    Not an explanation weather
+    Models account for all the notovel varition
+
+B Oregon Peition
+
+online Bs in medicine engineering biodigy agriculture math and computer science 
+9000 PHD unconformable surveys of abstracts PRJ overwhelming consensours
+
+
+C General critical thinking
+
+D pratial arguments to case doubt
 
