@@ -359,10 +359,10 @@ Arguments
 
 - History of Climate & temp  
   - __early 1800s: Joseph Fourier found out__
-  - plant should be colder than it is from radiation in and out
+  - plant should be colder than it is from infrared radiation in and out
   - gas in the atmosphere is holding to the heat
   - __mid 180ss: John Tyndall__
-  -  CO2, methane, N2o, H2o vapours absorbs radiation-> make plant warmer
+  -  CO2, methane, N2o, H2o vapours absorbs infrared radiation-> make plant warmer
   - i.e. greenhouse but very small amount in the air so should not account of for make plant warmer
   - __late 1800 Svante Arrhenius
   - recognized positive feedbacks loop(slight rise in co2 蝴蝶效应 最后产生的能量巨大)
@@ -377,7 +377,7 @@ Arguments
 1. cos absorption saturation causes T increase
 2. lots more co2 in minerals and oceans then atmosphere cause extra would be absorbed and no climate impact
 
-1950s Glibert plass atomsphere layered more co2 in upper layer has greater T effect
+1950s Glibert plass atmosphere layered more co2 in upper layer has greater T effect
 
 Roger Ruelle: oceans will absorb lot less co2 than assumed
 
@@ -404,25 +404,127 @@ Rest on 4 claims
     - explain: burning fossil fuels
     - percentage of 14C in atmosphere too low
 3. Reason one is due to reason two
-    - evidence: climate modles
+    - evidence: climate models
 
 Models are accurate for last 100 years with co2 emissions without co2 emissions it is not accurate
 
 4. Same models predict dire consequences for future generation 
 1. not an explanation
-2. Models account for all the nutovel variation
+2. Models account for all the notable variation
 
-A Temp due to atural variation simple narrative 
+A Temp due to natural variation simple narrative 
     Not an explanation weather
-    Models account for all the notovel varition
+    Models account for all the notable variation
 
 B Oregon Peition
 
-online Bs in medicine engineering biodigy agriculture math and computer science 
-9000 PHD unconformable surveys of abstracts PRJ overwhelming consensours
+online Bs in medicine engineering biology agriculture math and computer science 
+9000 PHD unconformable surveys of abstracts PRJ overwhelming consensus
 
 
 C General critical thinking
 
-D pratial arguments to case doubt
+D partial arguments to case doubt
 
+## Chapter 8 Science and religion
+
+### Barbours views 
+
+1. Dramatically opposed(science or religion one of them must be wrong)
+2. independent of are one and another 
+3. Science is concern with empirical constitution of the universe whereas religion concern with ethical values and spiritual meaning
+4. Filling the gaps (science gives answer where religion doesn't have)
+5. Integrated relationship (the advantages of each support or cover the disadvantages of the other)
+    - scientific discoveries as evidence for the existence of God
+
+### Evolution theory
+
+> Biological evolution 
+
+#### Charles Darwin
+> book called Origin of Species
+
+Speciation: species can come into existence 
+
+evolution = Variation and natural selection
+
+Artificially selection (breeding)
+
+
+
+## Chapter 10
+
+### HIV&&AIDS
+> Acquired immune deficiency syndrome 
+
+Human Immunodeficiency Virus
+
+Virus DNA -> RNA -> proteins
+
+RetroVirus RNA -> DNA -> RNA -> proteins (HIV)
+ATZ solved little HIV
+
+Get HIV but no 症状
+
+### Three criteria
+
+Controversy  Motive lifestyle (check book) not very true
+Alternative
+- should have a positive alternative, but also instead of giving positive alternative they magnify uncertainty  not very true
+
+Engagement solid true
+
+
+
+
+
+
+## Exam review
+
+### Question I got wrong
+One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
+
+>it fits with a simple narrative (weather changes all the time) and thus it is possible that we are biased to draw the conclusion
+
+The practice of testing a model by inserting past data and testing the model predictions against known outcomes is known as: __hidecasting__
+
+
+One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
+
+>	it is no explanation at all, since it amounts to saying "the temperature increase is not caused by people"
+
+### Possible short answer
+We should worry that natural variability isn't an __explanation__ for recent climate change but simply a refusal to countenance the possibility that human activity is to blame
+
+Facts of global warming: 
+
+1. The levels of atmospheric greenhouse gases are increasing.
+2. Greenhouse gasses have a warming effect
+
+Oregon Petition is worthless because (投票人为human没有排放很多的温室气体)
+
+1. Survey with people who does not trained in __climatology__
+2. Independent efforts to verify that the names on the list are not forgeries have repeatedly failed.(need peer review)
+
+
+> Naomi Oreskes want to identify the proportion of papers that either endorsed or rejection human-induced climate change(0 papers that argued in opposition)
+
+Average surface temperatures have increased (even 1998 is ht hottest year)
+
+
+### Why climate change is a created controversy
+
+> Answers are provided but ignored (problems with data, models etc)
+> 
+> Weak objection being repeated to mislead the public about the state of the science
+>
+> The majority of climate science scepticism is directed simply towards undermining the prevailing view 
+
+
+### Evolutionary biology
+
+Core idea = species are not immutable, but undergo change
+
+达尔文的爷爷和Pierre Louis Maupertuis suggested that species might under go changes
+
+Lamarck 也发现了, 但是没有发现现在很多物种有相同的祖先(达尔文发现的)
