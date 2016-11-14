@@ -416,7 +416,7 @@ A Temp due to natural variation simple narrative
     Not an explanation weather
     Models account for all the notable variation
 
-B Oregon Peition
+B Oregon Petition
 
 online Bs in medicine engineering biology agriculture math and computer science 
 9000 PHD unconformable surveys of abstracts PRJ overwhelming consensus
@@ -472,26 +472,57 @@ Controversy  Motive lifestyle (check book) not very true
 Alternative
 - should have a positive alternative, but also instead of giving positive alternative they magnify uncertainty  not very true
 
-Engagement solid true
 
+If there is someone else argument against have self serving motive 
+It is a created controversy 
 
+### Motives
 
+    Motives are an indication of Created scientific controversy if all dissenters have a self-serving motive. eThe motive close not need to be the same for all dissenters
 
+### Engagement
 
+    The engagement question the dissenters are to scientific community or to the pub community (Do the have legit scientific peer reviewed)
+
+### Alternative
+
+    Are there any alternative?
+    No alternative presented 
+    S
+### 疫苗
+MMR stands for mumps measles rubella
+
+Virus infects the body called antigen(抗原体)
+
+> Vaccines insert parts of viruses that train your immune system
+
+### Uncertainties of Vaccines
+
+1. Don't know if Vaccines have any side effect (what the are, and how common they are)
+
+2. We don't know How to make tem
 
 ## Exam review
 
 ### Question I got wrong
-One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
+- One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
+> it fits with a simple narrative (weather changes all the time) and thus it is possible that we are biased to draw the conclusion
 
->it fits with a simple narrative (weather changes all the time) and thus it is possible that we are biased to draw the conclusion
-
-The practice of testing a model by inserting past data and testing the model predictions against known outcomes is known as: __hidecasting__
+- The practice of testing a model by inserting past data and testing the model predictions against known outcomes is known as: __hidecasting__
 
 
-One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
-
+- One reason the argument against anthropogenic climate change that observed temperature increases is due to natural variation is suspect is that:
 >	it is no explanation at all, since it amounts to saying "the temperature increase is not caused by people"
+
+- For proponents of Intelligent Design, _____________ is an example of when the appearance of design is evidence for actual design.
+> 	 irreducible complexity
+
+- Darwin gained the insight that __________________ from Thomas Malthus' Essay on the Principles of Population.
+>  population growth rates are always greater than the environment can support
+
+- What unifies proponents of intelligent design?
+> The belief that certain biological and cosmological features are the result of intelligent agency
+
 
 ### Possible short answer
 We should worry that natural variability isn't an __explanation__ for recent climate change but simply a refusal to countenance the possibility that human activity is to blame
@@ -528,3 +559,19 @@ Core idea = species are not immutable, but undergo change
 达尔文的爷爷和Pierre Louis Maupertuis suggested that species might under go changes
 
 Lamarck 也发现了, 但是没有发现现在很多物种有相同的祖先(达尔文发现的)
+
+> Nature selection is about how populations become better adapted to their surroundings
+
+
+Nilsson and Pelger's model suggested that complex eyes, complete with a sophisticates lens, could evolve form a flat patch of light sensitive cells in less than 400000 years. Which is remarkably fast
+
+A result of __natural variation__ some individuals are better equipped to meet those challenges(大自然选择) => evidence in __fossil genes__
+
+Theories are not promoted to the status of __fact or law__
+
+
+Human have strong __essentialist__ tendencies when it comes to certain categories(study of children)
+
+### Intellectual Design 
+
+Michael Behe: Improbable for biological systems could have arisen through a sequence of stepwise improvements on earlier versions of that system
