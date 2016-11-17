@@ -498,9 +498,40 @@ Virus infects the body called antigen(抗原体)
 
 ### Uncertainties of Vaccines
 
-1. Don't know if Vaccines have any side effect (what the are, and how common they are)
+1. Harmful side effect
 
-2. We don't know How to make tem
+2. We don't know How to make them
+
+Created controversy for argument against Vaccines
+Making money (weeks field study, check book)
+
+Alternative (no alternative since didn't play with uncertainty)
+
+Engagement (does not have engagement)
+
+Thus not a created scientific controversy (bad science in practice) for the weeks field study
+
+
+### GMO(转基因)
+
+Breeding -> Hybridizing(杂交) -> Grafting(嫁接) -> GMOs
+
+### Inserting DNA sequences
+1. Gun
+2. Bacteria 
+3. CRISPR as 9
+
+### Worries about GMO food
+1. unnatural  - ick factor
+2. Unhealthy/ unsafe (countered by scientific consensus) Created controversy 
+3. Unsafe for environment 
+4. Corporate control __serious worry__ 
+
+
+
+
+
+
 
 ## Exam review
 
