@@ -314,7 +314,7 @@ Tendency to conclude if it feels right them it is right
 
 - overestimate our personal understanding of the scientific theories under discussion
 - our ability to evaluate conflicting arguments and evidence 
-- our ability to ensure that our beliefs aren't being swayed by emotion ro wishful thinking
+- our ability to ensure that our beliefs aren't being swayed by emotion or wishful thinking
 - influenced by what intuitively seems plausible rather than the evidence suggested 
 
 ### Memory
@@ -644,7 +644,7 @@ Nicoli Nattrass I identifies four roles within the AIDS denials community that h
 > 
 > died
 
-Denial is an important coping mechanism. Happened to some one who are diagnosed with fatal illnessesses
+Denial is an important coping mechanism. Happened to some one who are diagnosed with fatal illnesses
 
 ## Vaccinations and autism
 
@@ -657,7 +657,7 @@ Denial is an important coping mechanism. Happened to some one who are diagnosed 
 ### Why Wakefield study is not good
 
 1. Massive studies ovsugdgest that MMR vaccine has no effect on the rise of developing autism
-2. Not one of the links in Wakefields account from MMR to bowel infection and inflammation to leak gut have crediable supporting evidence
+2. Not one of the links in Wakefields account from MMR to bowel infection and inflammation to leak gut have credible supporting evidence
 
 Thiomersal(硫柳汞) doesn't cause autism
 
@@ -675,7 +675,7 @@ GMO are not dangerous to the environment(unknown since didn't put GMO into the s
 
 Arguments that are counter climate change fail at the critical think one(appeal to mass option, false authority, red herring) 
 
-Why is moder ID is created controversy
+Why is modern ID is created controversy
 
 
     Motive: religions motive
