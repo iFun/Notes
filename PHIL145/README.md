@@ -519,7 +519,7 @@ Breeding -> Hybridizing(杂交) -> Grafting(嫁接) -> GMOs
 ### Inserting DNA sequences
 1. Gun
 2. Bacteria 
-3. CRISPR as 9
+3. CRISPR as 基因 machine and inserting
 
 ### Worries about GMO food
 1. unnatural  - ick factor
@@ -606,3 +606,100 @@ Human have strong __essentialist__ tendencies when it comes to certain categorie
 ### Intellectual Design 
 
 Michael Behe: Improbable for biological systems could have arisen through a sequence of stepwise improvements on earlier versions of that system
+
+
+## HIV and AIDS
+Nicoli Nattrass I identifies four roles within the AIDS denials community that help sustain the illusion and may even be necessary for denials to persist. 
+
+#### Hero-scientist
+
+> Give the cause scientific credibility because they deny at least some key aspect of the relevant mainstream science while processing a scientific pedigree
+> 
+> 缺陷
+> 
+> fail to secure funding for their projects, fail to advance our understanding of the disease, fail to convince their peers to review
+ 
+
+#### Cultropreneur
+
+> Promote alternative therapies and treatments and thus stand to profit from the perception either that major pharmaceutical companies can’t be trusted or that the science surrounding HIV and AIDS is worryingly uncertain. These individuals are willing to invest in denialism as part of their business model.
+> 
+> 缺陷
+> 
+> can't provide more than highly dubious anecdotal evidence that their supposed therapies are effective and in some cases have been prosecuted for propagating misleading information
+
+#### Parish singer
+
+> Praise singers are journalists or documentary makers who help spread misleading information.
+> 
+> 缺陷
+> 
+> story teller but actual fact
+
+#### Living icon
+
+> Living icons provide the public example of what can supposedly be achieved by ignoring the recommendations of the health professionals and pursuing alternative remedies and treatment.
+> 
+> 缺陷
+> 
+> died
+
+Denial is an important coping mechanism. Happened to some one who are diagnosed with fatal illnessesses
+
+## Vaccinations and autism
+
+> Andrew Wakefield suggested a possible link between autism and the MMR vaccine
+
+- Wakefield had offered no evidence that the measles(麻疹) virus persisted In the bowels of his subjects
+
+- Wakefield had been paid by a law firm. That firm was representing the parents of some autistic children who were seeking damages from pharmaceutical companies that manufactured vaccines on the grounds that these were responsible for their children’s autism.
+
+### Why Wakefield study is not good
+
+1. Massive studies ovsugdgest that MMR vaccine has no effect on the rise of developing autism
+2. Not one of the links in Wakefields account from MMR to bowel infection and inflammation to leak gut have crediable supporting evidence
+
+Thiomersal(硫柳汞) doesn't cause autism
+
+> Today’s vaccine program places fewer demands on a child’s immune system than previous programs. Second, studies reveal that vaccinated children are no more vulnerable than non-vaccinated children to those diseases for which vaccines are not available, a conclusion that undermines the idea that vaccinations weaken a child’s immune system. The suggestion that vaccinations cause autism by weakening a child’s immune system fares no better than those relating autism to the MMR vaccine or thiomersal.
+
+
+### Conclusion
+
+AIDS denialism and the anti-vaccine movement might be more appropriately labelled as conspiracy theories, rather than created controversies.
+
+
+
+## Review Lecture 
+GMO are not dangerous to the environment(unknown since didn't put GMO into the scale)
+
+Arguments that are counter climate change fail at the critical think one(appeal to mass option, false authority, red herring) 
+
+Why is moder ID is created controversy
+
+
+    Motive: religions motive
+            
+    
+    Alternative: Yes no sound Imperial evidence to support
+    
+    
+    Engagement: no polish peer review in science
+    
+
+One source of argument counter the majority and it has a self motive (疫苗导致自闭wake field study) 
+
+
+
+HIV created
+MMR created
+GMO unhealthy for human being(created)
+    Others not created 
+    
+Organ petition 
+Understood the climate change is human cause. 
+
+1. Statement cannot be disagree of main sentence
+2. bachelor degree of irrclanvent field and you can sign
+3. Says there is PHD but can't confirm
+4. Expert writing on climate change 
