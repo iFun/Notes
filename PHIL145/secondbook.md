@@ -37,4 +37,20 @@ So instead of asking every person in US who to vote
 The method is __stratified random sample__
 
 > proportions of important in the population make sure proportions are same in sample random match the poportions
-> 
+
+&nbsp;
+
+
+### Mean: mathematical average 
+    SUM/TOTAL#
+
+### Median: mid point of value
+    
+    1/2 value above
+    1/2 value below
+
+
+
+### Mode: most frequent value (Page35)
+    
+    
