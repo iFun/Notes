@@ -54,3 +54,44 @@ The method is __stratified random sample__
 ### Mode: most frequent value (Page35)
     
     
+## Chapter 3
+
+
+### Sample size 
+larger the sample the better
+small sample: non-repsentative results
+    
+report on trail without sample size can be dangerous
+
+1 time 80% head: report this is biased coin
+
+When testing rare things, sample size has to be larger
+
+
+Chance of feature in sample occurring randomly => statistical significance 
+
+
+
+### Spread of data
+
+Avg family is 3.6 people
+
+We build 2 bed room houses
+
+Lots of family with no kids, and some family with lots of kids
+
+## Chapter 4
+
+Little difference mean nothing 
+
+IQ 98+3 L 101+3 IQ test
+
+
+### Reader Digest smoke rank
+All cigarettes are basically the same, but old gold at the bottom rank(still same maybe 0.001 differences)
+
+OLD GOLD say they have the least of these undesirable things in its smoke, excluded were all figures and any hint that the difference was negligible
+
+## Chapter 5 Graphs
+
+Using graph to manipulate 
