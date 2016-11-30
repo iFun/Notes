@@ -176,3 +176,13 @@ Pay attention to how number are calculated
     - unspecified average
     - percents with wrong bases
     - other factors
+
+4. Did somebody change the subject?
+    - Do the number and figure and chart are given represent the conclusion the want to draw
+    - changes in how numbers were gathered
+    - apples and oranges
+5. Does it make sense?
+    - reflect and look at implications
+        - 8m cases of prostate cancer -> 1.1case/made of age
+        - Trends don't last forever
+    
