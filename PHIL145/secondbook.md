@@ -124,7 +124,7 @@ But numbers can mean one thing and be used to imply another
 ### Correlation does not mean causation
 
 - Coincidence
-- common cause
+- Common cause
 
 
 - woman example (age causes toe angle to increase)
@@ -186,3 +186,16 @@ Pay attention to how number are calculated
         - 8m cases of prostate cancer -> 1.1case/made of age
         - Trends don't last forever
     
+## Exam review
+
+无意识bias dangerous 意识bias 
+
+TV example
+
+1. trend will continue forever
+
+    - issue: no trend continue forever
+
+2. Whats your first number
+
+    - issue: cherry picking starting point
