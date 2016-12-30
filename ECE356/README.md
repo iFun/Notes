@@ -59,9 +59,7 @@ one of the candidate key selected by the designer is called __primary key__
 
 
 
-
-
-
+## Indexing and Hashing
 
 
 

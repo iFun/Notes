@@ -19,12 +19,20 @@ Find out something about the sample conclude it would for large population
 
 Average Yale man of class of 24 makes 25,111/year (1954)
 
+#### problem with the result
+
+1. Student exaggerate income, student with low income don't answer
+2. People with low income didn't got the questionnaire 
+
 220,794(in 2016 inflation take into account)
 
 The way of collecting data: Yale sends out questionnaire
 
 1. Who is going to response
 2. Who gets questionnaire
+
+
+### Magazine example
 
 ### The gold standard of sample: Random sample
 
@@ -36,7 +44,7 @@ So instead of asking every person in US who to vote
 
 The method is __stratified random sample__
 
-> proportions of important in the population make sure proportions are same in sample random match the poportions
+> proportions of important in the population make sure proportions are same in sample random match the proportions
 
 &nbsp;
 
