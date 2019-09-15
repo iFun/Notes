@@ -1,4 +1,4 @@
-Notes
+Notes from Bill
 ================
 
-## Some notes I wrote (code/school)
+## Some notes I wrote
